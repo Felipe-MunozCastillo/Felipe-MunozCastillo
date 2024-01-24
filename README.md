@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 Hola!👋 Mi nombre es Felipe Muñoz, soy ingeniero en computación e informática. En mi último empleo como asistente de investigación (ya que también soy ingeniero en biotecnología 👨‍🔬) tuve un acercamiento al mundo de las tecnologías, y me fascinó. Lo que me llevó a estudiar una segunda carrera 💻.<br><br>Soy una persona full motivada, me encanta aprender, poner a prueba mis conocimientos y adquirir nuevas habilidades 📚.<br>Continuamente estoy estudiando algo nuevo y este será un espacio en donde mostraré los proyectos que vaya desarrollando y las soluciones que vaya creando 😎😎.<br>Creo fuertemente que compartir conocimientos y experiencias es de gran importancia para crecer como persona y profesional.<br><br>Muchas gracias por visitar mi perfil 🙏 y no dudes en contactarme si deseas saber más sobre mí.<br><br>Saludos! 😊
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipemunoz-castillo) 
 
 # 💻 Tech Stack:
